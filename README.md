@@ -11,11 +11,10 @@
  - 曾志强/男/1989 
  - 专科/湖南人文科技大学
  - 工作年限：6年
-
  - 期望职位：.net 
- - 期望薪资：税前月薪15k~20k
+ - 期望薪资：暂无计划
  - 期望城市：深圳
----
+
 
 # 工作经历
 
@@ -35,7 +34,7 @@
 ### 其他工作
   生产环境下发用户数据跟踪、用户问题处理及案例文档整理、测试发布跟踪及问题闭环、工具官网、关联应用前期联调等
 
-## 未完待续----------------------------
+## 未完待续 ----------------------------
 
 ## 技能与工具
 
@@ -45,8 +44,7 @@
 - 开发工具：VS2005-2015\eclipse\Dreamweaver\
 - 数据库：MSSQL\Oracle\SQLite\Access
 - 版本\文档：Svn\CC\NotePad++
-- 其他：SoapUI\Wireshark\mapi\PyCharm\hbuilder\XMind\visio\Postman\等
----
+- 其他：SoapUI\Wireshark\mapi\PyCharm\hbuilder\XMind\visio\Postman
 
 # 感谢
 感谢您阅读我的简历，期待能有机会与您共事。
