@@ -1,8 +1,8 @@
 # 联系方式
 
 - 手机：xxx
-- Email：xxx
-- QQ/微信号：xxx
+- Email：chinese1009@qq.com
+- QQ/微信号：373674179
 
 ---
 
