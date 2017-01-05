@@ -25,7 +25,7 @@ OUTLOOK 插件项目
 后台数据管理 MVC+EXT6
 
 #### Outlook 2007 短信服务
-  参照官方说明实现
+ 
 #### AD域\Exchange Mail webservice项目
   调用执行powershell命令方式
 #### Exchange EWS 服务支撑
