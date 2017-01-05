@@ -18,23 +18,23 @@
 ---
 # 工作经历
 
-## XXXXXX （ 2014年6月 ~ 至今 ）
-
-### OUTLOOK 插件项目
+### XXXXXX （ 2014年6月 ~ 至今 ）
+OUTLOOK 插件项目
 项目组3人，我负责C#后端，另外两位同事负责客户端C++. 
 主要用 webservice\windowservice
 后台数据管理 MVC+EXT6
 
-### Outlook 2007 短信服务
+#### Outlook 2007 短信服务
   参照官方说明实现
-### AD域\Exchange Mail webservice项目
+#### AD域\Exchange Mail webservice项目
   调用执行powershell命令方式
-### Exchange EWS 服务支撑
+#### Exchange EWS 服务支撑
   负责提供JAVA\C# API, HTTP,Webservcie 等方式访问 Exchange EWS 的代码， 技术支持其他项目组应用接入邮件、日历、找人等功能。
-### 其他工作
+#### 其他工作
   生产环境下发用户数据跟踪、用户问题处理及案例文档整理、测试发布跟踪及问题闭环、工具官网、关联应用前期联调等
 
- 未完待续 ----------------------------
+未完待续 ----------------------------
+
 ---
 ## 技能与工具
 
